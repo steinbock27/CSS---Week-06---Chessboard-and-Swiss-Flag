@@ -1,0 +1,37 @@
+/*Official Size of Swiss Flag
+Schweizerfahne: https://www.admin.ch/opc/de/classified-compilation/20091656/index.html#app2ahref0
+*/
+table{
+    margin: 120px auto;
+    background: #ff0000;
+    border-collapse: collapse;
+    box-shadow: 10px 20px 30px #ff0000
+}
+
+.weiss{
+    background: white;
+}
+
+.noBorder{
+    border:0;
+}
+
+#sechs{
+    width: 60px;
+    height: 60px;
+}
+
+#sieben{
+    width: 70px;
+    height: 60px;
+}
+
+#sieben2{
+    width: 60px;
+    height: 70px;
+}
+
+#sieben3{
+    width: 70px;
+    height: 70px;
+}
