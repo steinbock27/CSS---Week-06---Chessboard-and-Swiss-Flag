@@ -1,0 +1,22 @@
+table  {
+    border: solid black 10px;
+    box-shadow: 30px 60px 88px #888888;
+    margin: 120px auto;
+    padding: 20px ;
+    transform: rotate(-25deg)
+}
+
+table tr td {
+    border:solid black;
+
+    border-collapse: collapse;
+    font-size: 36px;
+    text-align: center;
+    width: 64px;
+    height: 64px;
+}
+
+#schwarz{
+    background-color: black;
+    color: white;
+}
